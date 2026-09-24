@@ -1,0 +1,23 @@
+{
+  "repo": "spl-plugins-advanced-2026",
+  "product": "SPL Plugins Advanced 2026",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "spl-plugins-advanced",
+    "spl-windows",
+    "audio-production-desktop",
+    "how-to-install-spl",
+    "spl-plugins-advanced-desktop-package",
+    "spl-workspace",
+    "spl-2026",
+    "spl-plugins-advanced-pro-tools",
+    "spl-suite",
+    "zentool-spl"
+  ],
+  "site": "zentool.art"
+}
